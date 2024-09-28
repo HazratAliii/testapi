@@ -47,3 +47,4 @@ mongoose_1.default
     .catch((e) => {
     console.log(e);
 });
+exports.default = app;
